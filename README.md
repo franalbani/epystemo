@@ -1,0 +1,2 @@
+# epystemo
+Epistemología Probabilística Idiosincrática
