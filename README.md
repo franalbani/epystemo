@@ -1,5 +1,12 @@
 # Epistemología Idiosincrática
 
+Este es un proyecto que, por su propia naturaleza,
+quiere y debe mantenerse indefinido.
+Sabemos que nace de la pulsión
+de hacernos preguntas
+a partir de situaciones en las que
+pareciera que la vida nos demanda respuestas.
+
 ## Contexto
 
 Con motivo de la pandemia y consecuente cuarentena, a mediados de Marzo de 2020,
