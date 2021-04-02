@@ -31,7 +31,7 @@ del enfoque pedagógico que suelo tener con mis alumnos particulares,
 con quienes pude poner en práctica
 algunas de las ideas sobre las que vengo rumiando en soledad hace años
 pero siempre limitado por la "turistificación" del conocimiento,
-propio de la academia contemporánea.
+tan propio de la academia contemporánea.
 
 Básicamente conseguí gente con ganas de escucharme hablar
 sobre las cosas que me apasionan y aprendo enseñando.
@@ -42,8 +42,8 @@ No me puedo quejar.
 
 Porque es un peligro.
 
-Gracias a las obras de Nassim Taleb y David Deutsche, hoy tengo una intuición más clara sobre los
-límites prácticos de Probabilidad y la Estadística.
+Gracias a las obras de Nassim Taleb y David Deutsch, hoy tengo una intuición más clara sobre los
+límites prácticos y teóricos de la Probabilidad y la Estadística.
 
 Casualmente la pandemia es una gran oportunidad para reflexionar sobre
 nuestra capacidad de predecir el futuro, basados en el conocimiento del pasado.
@@ -66,6 +66,7 @@ Porque nace de mi
 * propio enfoque pedagógico, dirigido a provocar y alimentar el entusiasmo,
 * propia bronca con la forma usual en la que estos temas se presentan,
 * propia crítica a la irresponsabilidad con la que se suelen utilizar.
+
 y porque refleja también los intereses propios de quienes me acompañan.
 
 ¿Qué mejor forma de celebrar lo Idiosincrático que dejándose llevar por lo Impredecible?
